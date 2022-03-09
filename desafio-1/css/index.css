@@ -35,3 +35,16 @@ body, html{
     background-color:var(--fundoDiv-color3);
 }
 
+.divInferior,
+.divInferior2{
+    width: var(--width);
+    height: var(--height);
+    background-color:var(--fundoDiv-color);
+    margin: 70px 70px auto auto;
+    font-size: 55px;
+    color:#FFFFFF;
+    font-weight: 600;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
