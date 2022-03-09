@@ -1,3 +1,12 @@
+:root{
+    --width: 280px;
+    --height: 264px;
+    --fundoDiv-color: rgba(0, 57, 107, 0.7);
+    --fundoDiv-color2: #ff912e;
+    --fundoDiv-color3: #870093;
+
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -9,3 +18,20 @@ body, html{
     height: 100%;
     background-color:  #001F3A;
 }
+
+.divSuperior{
+    width: var(--width);
+    height: var(--height);
+    background-color:var(--fundoDiv-color);
+    display: inline-block;
+    margin-right: 70px;
+}
+
+#div1{
+    background-color:var(--fundoDiv-color2);
+}
+
+#div2{
+    background-color:var(--fundoDiv-color3);
+}
+
