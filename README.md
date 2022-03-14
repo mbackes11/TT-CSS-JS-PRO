@@ -17,3 +17,7 @@ Requisitos:
 
 [Desafio-2](https://user-images.githubusercontent.com/70857700/158226385-8e5cf83f-7f56-4829-ae5c-ffc451478a6a.PNG)
 
+Requisitos:
+  
+  1. Atividade para treinar o uso de Flexbox.
+
