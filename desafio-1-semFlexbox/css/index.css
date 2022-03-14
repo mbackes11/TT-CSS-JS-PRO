@@ -30,6 +30,7 @@ body, html{
 
 #div1{
     background-color:var(--fundoDiv-color2);
+    width: 262px;
 }
 
 #div2{
