@@ -5,7 +5,7 @@ Repositório desenvolvido para os códigos produzidos no curso Primeiros Passos 
 
 ## Links dos enunciados dos desafios propostos
 
-[Desafio-1](https://www.figma.com/file/TPZjte2M12por4Sq79aaeJ/Exercicios-HTML_CSS?node-id=13%3A2)
+[Desafio-1](https://user-images.githubusercontent.com/70857700/158232211-d642ed96-8d16-4b2a-9702-449ca152e3ec.png)
 
 Requisitos:
   
@@ -20,4 +20,5 @@ Requisitos:
 Requisitos:
   
   1. Atividade para treinar o uso de Flexbox.
+
 
