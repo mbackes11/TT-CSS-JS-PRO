@@ -15,6 +15,5 @@ Requisitos:
   4. Texto centralizado na vertical e horizontal.
 
 
-##Desafio-2
+[Desafio-2](https://user-images.githubusercontent.com/70857700/158226385-8e5cf83f-7f56-4829-ae5c-ffc451478a6a.PNG)
 
-1. Imagem da proposta do desafio está dentro do: pasta desafio-2
