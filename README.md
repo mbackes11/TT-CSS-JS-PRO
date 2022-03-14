@@ -5,7 +5,7 @@ Repositório desenvolvido para os códigos produzidos no curso Primeiros Passos 
 
 ## Links dos enunciados dos desafios propostos
 
-[Desafio-1](https://user-images.githubusercontent.com/70857700/158232211-d642ed96-8d16-4b2a-9702-449ca152e3ec.png)
+[Desafio I](https://user-images.githubusercontent.com/70857700/158270615-f151cd6f-236c-4ff9-9d5c-576dae185a18.jpeg)
 
 Requisitos:
   
@@ -14,11 +14,11 @@ Requisitos:
   3. Valor transparente;
   4. Texto centralizado na vertical e horizontal.
 
-
-[Desafio-2](https://user-images.githubusercontent.com/70857700/158226385-8e5cf83f-7f56-4829-ae5c-ffc451478a6a.PNG)
+[Desafio II](https://user-images.githubusercontent.com/70857700/158270677-4478d854-9a31-4b18-aed1-b16ec601e4fb.PNG)
 
 Requisitos:
   
   1. Atividade para treinar o uso de Flexbox.
 
+[Desafio III](https://user-images.githubusercontent.com/70857700/158270717-6bfff230-4d72-43f5-b2ae-4b3205cb2c0a.PNG)
 
