@@ -13,3 +13,8 @@ Requisitos:
   2. Conter um valor negado;
   3. Valor transparente;
   4. Texto centralizado na vertical e horizontal.
+
+
+##Desafio-2
+
+1. Imagem da proposta do desafio está dentro do: pasta desafio-2
