@@ -155,21 +155,21 @@ p{
 
 }
 
-/* .caixa6-a{
-    order: 2;
+.caixa6-a{
+    order: 3;
 }
 
 .caixa6-b{
-    order: 0;
-}
-
-.caixa6-c{
     order: 1;
 }
 
+.caixa6-c{
+    order: 2;
+}
+
 .caixa6-d{
-    order: 3;
-} */
+    order: 4;
+}
 
 .box7{
     flex-direction: column-reverse;
