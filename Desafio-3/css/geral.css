@@ -1,0 +1,26 @@
+/* Definições gerais do site */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgba(0, 31, 58, 1);
+    width: 100vw;
+    height: 100vh;
+}
+
+header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    border: 2px solid yellow;
+    width:80vw;
+    display: flex;
+}
+
+
