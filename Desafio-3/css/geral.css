@@ -1,5 +1,9 @@
 /* Definições gerais do site */
 
+:root{
+    --font-md: clamp(1rem, 2.5vw + 0.1rem, 1.8rem)
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -9,56 +13,86 @@ body{
     background: rgba(0, 31, 58, 1);
     width: 100vw;
     height: 100vh;
+    margin: 0;
     font-family: Montserrat;
 }
 
-header{
-    width: 100%;
-    display: flex;
+.container-header{
+    border: 2px solid white;
+    height: 16vh;
+    display: flex; 
     justify-content: center;
+    align-items: center;
 }
 
 .container{
-    /* border: 2px solid yellow; */
+    border: 2px solid  yellow;
     width:80vw;
+    height: 14vh;
     display: flex;
 }
 
 .container-esquerda,
 .container-direita{
-    width: 50%;
+    width: 40vw;
     display: flex;
+    align-items: center;
+}
+.container-direita{
+    width: 60vw;
+}
+.logo{
+    height: 14vh;
+    width: 19vw;
 }
 
 .container-direita{
     justify-content: flex-end;
 }
 
-.logo{
-    background-size: contain;
-    width: 270px;
-    height:90px;
-}
-
-.menu{
-  display: flex;
-  align-items: center;
-}
-
 .menu a{
-color: rgba(158, 158, 158,0.5);
-font-size: 30px;
-font-style: normal;
-font-weight: 600;
-text-decoration: none;
-margin-left: 50px;
+    color: rgba(158, 158, 158,0.5);
+    font-size: var(--font-md);
+    font-style: normal;
+    font-weight: 600;
+    text-decoration: none;
+    margin-left: 50px;
 }
-
 .menu a:hover{
     color:white;
     transition: all 0.4s ease-in-out;
 }
 
+.container-section{
+    border: 2px solid rgb(74, 21, 172);
+    height: 68vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-1{
+    border: 2px solid  yellow;
+    width:80vw;
+    height: 67vh;
+    display: flex;
+}
+
+.container-footer{
+    border: 2px solid aqua;
+    height:14vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container-2{
+    border: 2px solid  yellow;
+    width:80vw;
+    height: 13vh;
+    display: flex;
+}
 
 
 
