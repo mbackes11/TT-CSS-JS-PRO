@@ -22,3 +22,7 @@ Requisitos:
 
 [Desafio III](https://user-images.githubusercontent.com/70857700/158270717-6bfff230-4d72-43f5-b2ae-4b3205cb2c0a.PNG)
 
+Requisitos:
+  
+  1. Atividade para treinar todo o conhecimento de CSS e HTML.
+
