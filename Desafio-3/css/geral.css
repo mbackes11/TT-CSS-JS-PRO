@@ -9,6 +9,7 @@ body{
     background: rgba(0, 31, 58, 1);
     width: 100vw;
     height: 100vh;
+    font-family: Montserrat;
 }
 
 header{
@@ -18,9 +19,46 @@ header{
 }
 
 .container{
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
     width:80vw;
     display: flex;
 }
+
+.container-esquerda,
+.container-direita{
+    width: 50%;
+    display: flex;
+}
+
+.container-direita{
+    justify-content: flex-end;
+}
+
+.logo{
+    background-size: contain;
+    width: 270px;
+    height:90px;
+}
+
+.menu{
+  display: flex;
+  align-items: center;
+}
+
+.menu a{
+color: rgba(158, 158, 158,0.5);
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+text-decoration: none;
+margin-left: 50px;
+}
+
+.menu a:hover{
+    color:white;
+    transition: all 0.4s ease-in-out;
+}
+
+
 
 

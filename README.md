@@ -24,5 +24,6 @@ Requisitos:
 
 Requisitos:
   
-  1. Atividade para treinar todo o conhecimento de CSS e HTML.
+  1. Treinar todos os conhecimentos de CSS e HTML.
+
 
