@@ -1,0 +1,105 @@
+
+.container-1{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    position: relative;
+}
+
+.curso-anual,
+.curso-full{
+    width: 17vw;
+    background: rgba(255, 185, 47, 1);
+    border-radius: 5px;
+    position: relative;
+}
+
+.curso-anual{
+    height: 58vh;
+}
+
+.curso-anual, .curso-full{
+    display: flex;
+    text-align: center;
+}
+
+.curso-full{
+    height: 65vh;
+}
+
+.controle-lista-full{
+    margin-top: 20px;
+    position: relative;
+}
+
+.controle-lista{
+    position:relative;
+}
+
+
+
+.img1{
+    width: 1vw;
+    height: 2vh;
+}
+
+.lista{
+    list-style: none;
+}
+
+.item-1, .item-2{
+    font-weight: 600;
+    font-size: 29px;
+}
+
+.item-1{
+    margin: 10px auto;
+}
+
+.item-2{
+    font-size: 31px;
+}
+
+span{
+    font-size: 20px;
+}
+
+.item-3{
+    margin-bottom: 10px;
+}
+.item-3, .lista{
+font-size: 16px;
+font-weight: 600;
+line-height: 26px;
+color: rgba(0, 92, 145, 1);
+}
+
+.lista{
+    margin: 0 20px 20px 20px;
+
+}
+
+.botao{
+    text-decoration: none;
+    width: 300px;
+    background: rgba(0, 57, 107, 1);
+    color: rgba(255, 255, 255);
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: 600;
+}
+
+.controle-lista-full a:hover,
+.controle-lista a:hover{
+    background-color: rgb(4, 119, 52);
+    transition: all 0.4s ease-in-out;
+}
+
+.indicado{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 30px;
+    height: 30px;
+}
+

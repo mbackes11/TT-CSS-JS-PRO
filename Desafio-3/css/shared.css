@@ -1,7 +1,8 @@
 /* Definições gerais do site */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
 
 :root{
-    --font-md: clamp(1rem, 2.5vw + 0.1rem, 1.8rem)
+    --font-md: clamp(0.2rem, 2.5vw + 0.1rem, 1.8rem)
 }
 
 *{
@@ -18,7 +19,6 @@ body{
 }
 
 .container-header{
-    border: 2px solid white;
     height: 16vh;
     display: flex; 
     justify-content: center;
@@ -26,7 +26,6 @@ body{
 }
 
 .container{
-    border: 2px solid  yellow;
     width:80vw;
     height: 14vh;
     display: flex;
@@ -56,43 +55,25 @@ body{
     font-style: normal;
     font-weight: 600;
     text-decoration: none;
-    margin-left: 50px;
+    margin-left: 2vw;
 }
 .menu a:hover{
-    color:white;
+    color:rgba(255, 255, 255);
     transition: all 0.4s ease-in-out;
 }
 
 .container-section{
-    border: 2px solid rgb(74, 21, 172);
-    height: 68vh;
+    height: 84vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .container-1{
-    border: 2px solid  yellow;
-    width:80vw;
-    height: 67vh;
-    display: flex;
+    width:83vw;
+    height: 74vh;
 }
 
-.container-footer{
-    border: 2px solid aqua;
-    height:14vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-}
-
-.container-2{
-    border: 2px solid  yellow;
-    width:80vw;
-    height: 13vh;
-    display: flex;
-}
 
 
 
