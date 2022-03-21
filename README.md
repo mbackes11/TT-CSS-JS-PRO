@@ -25,5 +25,10 @@ Requisitos:
 Requisitos:
   
   1. Treinar todos os conhecimentos de CSS e HTML.
+  2. Página pronta: planos. 
 
+[Desafio III-Refatoração com SASS](https://user-images.githubusercontent.com/70857700/158270717-6bfff230-4d72-43f5-b2ae-4b3205cb2c0a.PNG)
 
+Requisitos:
+  
+  1. Refatorar o código do desafio 3 utilizando SASS.
